@@ -13362,7 +13362,7 @@
         "author": "quannnic",
         "album": "kenopsia",
         "queue": 4,
-        "date": "28/02/20223",
+        "date": "28/02/2023",
         "attributes": ["hiphop", "grunge", "shoegaze"],
         "language": "english",
         "tempo": "85 bpm",
@@ -13417,5 +13417,38 @@
         "url": "https://soundcloud.com/willixbeats/a0_5",
         "source": "/home/user/audio/error.m4a",
         "cover": "/home/user/image/error.jpg"
+    },
+    {
+        "title": "In My Room",
+        "author": "JULIA WOLF",
+        "vocals": "JULIA WOLF",
+        "producer": "Scro",
+        "album": "PRESSURE",
+        "queue": 9,
+        "date": "22/03/2024",
+        "attributes": ["rock"],
+        "language": "english",
+        "tempo": "80 bpm",
+        "key": "A major",
+        "url": ["https://soundcloud.com/juliawolfnyc/in-my-room", "https://youtu.be/VWx9WoEYb5E", "https://music.apple.com/us/song/in-my-room/1789874182"],
+        "source": "/home/user/audio/in_my_room.m4a",
+        "cover": "/home/user/image/in_my_room.jpg",
+        "lyrics": "/home/user/text/in_my_room.txt"
+    },
+    {
+        "title": "I Against I",
+        "author": ["Jedi Mind Tricks", "Planetary"],
+        "producer": "Stoupe",
+        "album": "Violent By Design",
+        "queue": 8,
+        "date": "03/10/2000",
+        "attributes": ["hiphop"],
+        "language": "english",
+        "tempo": "91 bpm",
+        "key": "C# minor",
+        "url": "https://music.apple.com/us/song/i-against-i/1855592671",
+        "source": "/home/user/audio/i_againt_i.mp3",
+        "cover": "/home/user/image/violent_by_design.jpg",
+        "lyrics": "/home/user/text/i_againt_i.txt"
     }
 ]
