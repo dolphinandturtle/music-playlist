@@ -13450,5 +13450,21 @@
         "source": "/home/user/audio/i_againt_i.mp3",
         "cover": "/home/user/image/violent_by_design.jpg",
         "lyrics": "/home/user/text/i_againt_i.txt"
+    },
+    {
+        "title": "Born Killer",
+        "author": "Scarface",
+        "producer": ["Crazy C", "Scarface"],
+        "album": "Mr. Scarface Is Back",
+        "queue": 3,
+        "date": "03/10/1991",
+        "attributes": ["hiphop", "rap"],
+        "language": "english",
+        "tempo": "111 bpm",
+        "key": "C# major",
+        "url": ["https://youtu.be/GbEUR7AjxpA", "https://music.apple.com/us/song/born-killer/712730505"],
+        "source": "/home/user/audio/born_killer.m4a",
+        "cover": "/home/user/image/mr_scarface_is_back.png",
+        "lyrics": "/home/user/text/born_killer.txt"
     }
 ]
