@@ -13466,5 +13466,19 @@
         "source": "/home/user/audio/born_killer.m4a",
         "cover": "/home/user/image/mr_scarface_is_back.png",
         "lyrics": "/home/user/text/born_killer.txt"
+    },
+    {
+        "title": "Wiege",
+        "author": "BL8M",
+        "producer": ["STUDIO LICO", "WHISTY"],
+        "date": "14/02/2025",
+        "attributes": ["orchestral", "atmospheric"],
+        "language": "korean",
+        "tempo": "75 bpm",
+        "key": "D minor",
+        "url": ["https://youtu.be/DDea4MGjGk0", "https://music.apple.com/us/song/wiege-vivinos-alnst-original-soundtrack-part-9/1795409147"],
+        "source": "/home/user/audio/wiege.flac",
+        "cover": "/home/user/image/wiege.jpg",
+        "lyrics": ["/home/user/text/wiege_kr.txt", "/home/user/text/wiege_en.txt"]
     }
 ]
