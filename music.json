@@ -13480,5 +13480,12 @@
         "source": "/home/user/audio/wiege.flac",
         "cover": "/home/user/image/wiege.jpg",
         "lyrics": ["/home/user/text/wiege_kr.txt", "/home/user/text/wiege_en.txt"]
-    }
+    },
+	{
+		"title": "Renee",
+		"author": "Lost Boyz",
+		"attributes": ["hiphop", "rap"],
+		"language": "english",
+		"url": ["https://youtu.be/5dspLpjn1mI"]
+	}
 ]
