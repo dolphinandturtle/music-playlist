@@ -13481,16 +13481,36 @@
         "cover": "/home/user/image/wiege.jpg",
         "lyrics": ["/home/user/text/wiege_kr.txt", "/home/user/text/wiege_en.txt"]
     },
-	{
-		"title": "Renee",
-		"author": "Lost Boyz",
-		"attributes": ["hiphop", "rap"],
-		"language": "english",
-		"url": ["https://youtu.be/5dspLpjn1mI"]
-	},
-	{
-		"title": "Bad Habit",
-		"author": "Steve Lacy",
-		"language": "english"
-	}
+    {
+	"title": "Renee",
+	"author": "Lost Boyz",
+        "producer": ["Buttnaked Tim Dawg", "Mr. Sexxx"],
+        "album": "Legal Drug Money",
+        "queue": 6,
+        "date": "12/01/1996",
+	"attributes": ["hiphop", "rap"],
+	"language": "english",
+        "tempo": "95 bpm",
+        "key": "A major",
+	"url": ["https://youtu.be/5dspLpjn1mI", "https://music.apple.com/us/album/renee/1440713602?i=1440713613"],
+        "source": "/home/user/audio/renee.m4a",
+        "cover": "/home/user/image/legal_drug_money.jpg",
+        "lyrics": "/home/user/text/renee.txt"
+    },
+    {
+	"title": "Bad Habit",
+	"author": "Steve Lacy",
+        "producer": ["Steve Lacy", "John Carroll Kirby"],
+        "album": "Gemini Rights",
+        "queue": 5,
+        "date": "29/01/2022",
+        "attributes": ["r&b", "soul"],
+	"language": "english",
+        "tempo": "84.5 bpm",
+        "key": "C# major",
+        "url": ["https://youtu.be/UGbDWUtqMsQ", "https://music.apple.com/us/song/bad-habit/1631909584", "https://soundcloud.com/steevlacy/bad-habit"],
+        "source": "/home/user/audio/bad_habit.m4a",
+        "cover": "/home/user/image/bad_habit.jpg",
+        "lyrics": "/home/user/text/bad_habit.txt"
+    }
 ]
