@@ -9024,7 +9024,7 @@
         "url": "https://blvntcmpny.bandcamp.com/track/into-the-deep",
         "source": "/home/user/audio/into_the_deep.flac",
         "cover": "/home/user/image/into_the_deep.jpg"
-    }, 
+    },
     {
         "title": "Formula",
         "author": "C Y G N",
@@ -9035,7 +9035,7 @@
         "url": "https://blvntcmpny.bandcamp.com/track/formula",
         "source": "/home/user/audio/formula_cygn.flac",
         "cover": "/home/user/image/into_the_deep.jpg"
-    }, 
+    },
     {
         "title": "Scuba",
         "author": "C Y G N",
@@ -9046,7 +9046,7 @@
         "url": "https://blvntcmpny.bandcamp.com/track/scuba",
         "source": "/home/user/audio/scuba.flac",
         "cover": "/home/user/image/into_the_deep.jpg"
-    }, 
+    },
     {
         "title": "Wave",
         "author": "C Y G N",
@@ -9057,7 +9057,7 @@
         "url": "https://blvntcmpny.bandcamp.com/track/wave",
         "source": "/home/user/audio/wave.flac",
         "cover": "/home/user/image/into_the_deep.jpg"
-    }, 
+    },
     {
         "title": "Binocular",
         "author": "C Y G N",
@@ -9068,7 +9068,7 @@
         "url": "https://blvntcmpny.bandcamp.com/track/binocular",
         "source": "/home/user/audio/binocular.flac",
         "cover": "/home/user/image/into_the_deep.jpg"
-    }, 
+    },
     {
         "title": "The Good Fight",
         "author": ["Lord Apex", "Madlib"],
@@ -11148,7 +11148,7 @@
     {
         "title": "La La La",
         "author": ["Naughty Boy", "Sam Smith"],
-	"vocals": "Sam Smith",
+        "vocals": "Sam Smith",
         "producer": ["Komi", "Mojam", "Naughty Boy"],
         "album": "Hotel Cabana",
         "queue": 8,
@@ -13482,30 +13482,30 @@
         "lyrics": ["/home/user/text/wiege_kr.txt", "/home/user/text/wiege_en.txt"]
     },
     {
-	"title": "Renee",
-	"author": "Lost Boyz",
+        "title": "Renee",
+        "author": "Lost Boyz",
         "producer": ["Buttnaked Tim Dawg", "Mr. Sexxx"],
         "album": "Legal Drug Money",
         "queue": 6,
         "date": "12/01/1996",
-	"attributes": ["hiphop", "rap"],
-	"language": "english",
+        "attributes": ["hiphop", "rap"],
+        "language": "english",
         "tempo": "95 bpm",
         "key": "A major",
-	"url": ["https://youtu.be/5dspLpjn1mI", "https://music.apple.com/us/album/renee/1440713602?i=1440713613"],
+        "url": ["https://youtu.be/5dspLpjn1mI", "https://music.apple.com/us/album/renee/1440713602?i=1440713613"],
         "source": "/home/user/audio/renee.m4a",
         "cover": "/home/user/image/legal_drug_money.jpg",
         "lyrics": "/home/user/text/renee.txt"
     },
     {
-	"title": "Bad Habit",
-	"author": "Steve Lacy",
+        "title": "Bad Habit",
+        "author": "Steve Lacy",
         "producer": ["Steve Lacy", "John Carroll Kirby"],
         "album": "Gemini Rights",
         "queue": 5,
         "date": "29/01/2022",
         "attributes": ["r&b", "soul"],
-	"language": "english",
+        "language": "english",
         "tempo": "84.5 bpm",
         "key": "C# major",
         "url": ["https://youtu.be/UGbDWUtqMsQ", "https://music.apple.com/us/song/bad-habit/1631909584", "https://soundcloud.com/steevlacy/bad-habit"],
