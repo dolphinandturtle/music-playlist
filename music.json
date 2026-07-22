@@ -13521,5 +13521,23 @@
         "url": "https://soundcloud.com/breauxofficial/eptic-the-end-breaux-vip-free-download",
         "source": "/home/user/audio/the_end_breaux.flac",
         "cover": "/home/user/image/the_end_breaux.jpg"
+    },
+    {
+        "title": "Unreleased (Vol. 1)",
+        "author": "DJ Nobunaga",
+        "attributes": ["hiphop", "breaks"],
+        "source": "/home/user/audio/unreleased_1_nobunaga.wav"
+    },
+    {
+        "title": "Unreleased (Vol. 2)",
+        "author": "DJ Nobunaga",
+        "attributes": ["hiphop", "breaks"],
+        "source": "/home/user/audio/unreleased_2_nobunaga.wav"
+    },
+    {
+        "title": "Unreleased (Vol. 3)",
+        "author": "DJ Nobunaga",
+        "attributes": ["hiphop", "breaks"],
+        "source": "/home/user/audio/unreleased_3_nobunaga.wav"
     }
 ]
