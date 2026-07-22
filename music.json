@@ -13512,5 +13512,14 @@
         "source": "/home/user/audio/bad_habit.m4a",
         "cover": "/home/user/image/bad_habit.jpg",
         "lyrics": "/home/user/text/bad_habit.txt"
+    },
+    {
+        "title": "The End (Breaux VIP)",
+        "author": ["EPTIC", "Breaux"],
+        "date": "03/05/2015",
+        "attributes": ["electronic", "trap"],
+        "url": "https://soundcloud.com/breauxofficial/eptic-the-end-breaux-vip-free-download",
+        "source": "/home/user/audio/the_end_breaux.flac",
+        "cover": "/home/user/image/the_end_breaux.jpg"
     }
 ]
