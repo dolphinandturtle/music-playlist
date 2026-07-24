@@ -13539,5 +13539,51 @@
         "author": "DJ Nobunaga",
         "attributes": ["hiphop", "breaks"],
         "source": "/home/user/audio/unreleased_3_nobunaga.wav"
+    },
+    {
+        "title": "tower of memories",
+        "author": "ivri",
+        "producer": ["TK the Architect"],
+        "album": "the theory of you",
+        "queue": 3,
+        "date": "10/07/2025",
+        "attributes": ["indie", "rock"],
+        "language": "english",
+        "tempo": "81 bpm",
+        "key": "D major",
+        "url": ["https://youtu.be/SQ0tHSMfirc", "https://music.apple.com/us/song/tower-of-memories/1851073171", "https://soundcloud.com/ivrii/tower-of-memories", "https://ivri.bandcamp.com/track/tower-of-memories"],
+        "source": "/home/user/audio/tower_of_memories.flac",
+        "cover": "/home/user/image/tower_of_memories.jpg",
+        "lyrics": "/home/user/text/tower_of_memories.txt"
+    },
+    {
+        "title": "Don't Go",
+        "author": ["Skrillex", "Justin Bieber", "Don Toliver"],
+        "producer": ["Skrillex", "HARV", "Car!ton"],
+        "album": "Don't Get Too Close",
+        "queue": 9,
+        "date": "20/08/2021",
+        "attributes": ["pop", "trap"],
+        "language": "english",
+        "tempo": "150 bpm",
+        "key": "B major",
+        "url": ["https://soundcloud.com/skrillex/skrillex-justin-bieber-don-toliver-dont-go", "https://youtu.be/7FowCr427RQ", "https://music.apple.com/us/song/dont-go/1581822387"],
+        "source": "/home/user/audio/dont_go.m4a",
+        "cover": "/home/user/image/dont_go.png",
+        "lyrics": "/home/user/text/dont_go.txt"
+    },
+    {
+        "title": "Potato Salad",
+        "author": ["Tyler The Creator", "A$ap Rocky"],
+        "producer": ["Kanye West", "Missy Elliot"],
+        "date": "23/06/2018",
+        "attributes": ["hiphop", "rap"],
+        "language": "english",
+        "tempo": "89 bpm",
+        "key": "D major",
+        "url": ["https://youtu.be/jd5_Be6PgkM", "https://music.apple.com/us/song/potato-salad/1437344841"],
+        "source": "/home/user/audio/potato_salad.m4a",
+        "cover": "/home/user/image/potato_salad.png",
+        "lyrics": "/home/user/text/potato_salad.txt"
     }
 ]
