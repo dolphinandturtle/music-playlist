@@ -13839,5 +13839,13 @@
         "source": "/home/user/audio/star_eyes.flac",
         "cover": "/home/user/image/flume.png",
         "lyrics": "/home/user/text/"
+    },
+    {
+        "title": "one out of six",
+        "author": "Kogeru",
+        "date": "23/04/2026",
+        "attributes": ["rock", "alternative", "madicore"],
+        "language": "japanese",
+        "url": ["https://soundcloud.com/user-563277245/one-out-of-six", "https://youtu.be/uPzxquO-FxU"]
     }
 ]
