@@ -13925,5 +13925,12 @@
         "source": "/home/user/audio/",
         "cover": "/home/user/image/",
         "lyrics": "/home/user/text/"
+    },
+    {
+        "title": "all that's left",
+        "author": "Kogeru",
+        "date": "11/05/2026",
+        "attributes": ["rock", "alternative", "madicore"],
+        "url": ["https://soundcloud.com/user-563277245/all-thats-left", "https://youtu.be/dSBE27kpXDE", "https://kogeru.bandcamp.com/track/all-thats-left"]
     }
 ]
