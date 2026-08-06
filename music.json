@@ -13862,9 +13862,9 @@
         "tempo": "106 bpm",
         "key": "A minor",
         "url": ["https://youtu.be/px-hIf_Ca30", "https://music.apple.com/us/song/this-time-around/310505573"],
-        "source": "/home/user/audio/",
-        "cover": "/home/user/image/",
-        "lyrics": "/home/user/text/"
+        "source": "/home/user/audio/this_time_around.m4a",
+        "cover": "/home/user/image/history_past_present_and_future_book_1.jpg",
+        "lyrics": "/home/user/text/this_time_around.txt"
     },
     {
         "title": "Etnik Teknik",
