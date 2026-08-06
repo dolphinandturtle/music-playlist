@@ -13863,5 +13863,15 @@
         "source": "/home/user/audio/",
         "cover": "/home/user/image/",
         "lyrics": "/home/user/text/"
+    },
+    {
+        "title": "Etnik Teknik",
+        "author": "ILLAG",
+        "date": "28/04/2024",
+        "attributes": ["hiphop", "bboy"],
+        "url": ["https://youtu.be/aYyIvdFHskc", "https://music.apple.com/us/song/etnik-teknik/1742011090", "https://sologasrecordz.bandcamp.com/track/illag-etnik-teknik"],
+        "source": "/home/user/audio/",
+        "cover": "/home/user/image/",
+        "lyrics": "/home/user/text/"
     }
 ]
