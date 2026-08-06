@@ -13932,5 +13932,17 @@
         "date": "11/05/2026",
         "attributes": ["rock", "alternative", "madicore"],
         "url": ["https://soundcloud.com/user-563277245/all-thats-left", "https://youtu.be/dSBE27kpXDE", "https://kogeru.bandcamp.com/track/all-thats-left"]
+    },
+    {
+        "title": "ON EDGE.",
+        "author": ["yaguru", "bsterthegawd", "antikvng"],
+        "date": "18/02/2020",
+        "attributes": ["trap", "metal"],
+        "language": "english",
+        "url": ["https://soundcloud.com/antikvng2/on-edge-w-bsterthegawd-antikvng", "https://youtu.be/LiJUgohFdIw"],
+        "source": "/home/user/audio/",
+        "cover": "/home/user/image/",
+        "lyrics": "/home/user/text/",
+        "comment": "rip yaguru o and the date a set is an upper bound, not the actual date"
     }
 ]
