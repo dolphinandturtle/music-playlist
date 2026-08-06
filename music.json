@@ -13847,5 +13847,21 @@
         "attributes": ["rock", "alternative", "madicore"],
         "language": "japanese",
         "url": ["https://soundcloud.com/user-563277245/one-out-of-six", "https://youtu.be/uPzxquO-FxU"]
+    },
+    {
+        "title": "This Time Around",
+        "author": ["Micheal Jackson", "The Notorious B.I.G."],
+        "producer": ["René Moore", "Bruce Swedien", "Michael Jackson", "Dallas Austin"],
+        "album": "HIStory: Past, Present and Future - Book I",
+        "queue": 19,
+        "date": "26/12/1995",
+        "attributes": ["hiphop", "rap"],
+        "language": "english",
+        "tempo": "106 bpm",
+        "key": "A minor",
+        "url": ["https://youtu.be/px-hIf_Ca30", "https://music.apple.com/us/song/this-time-around/310505573"],
+        "source": "/home/user/audio/",
+        "cover": "/home/user/image/",
+        "lyrics": "/home/user/text/"
     }
 ]
