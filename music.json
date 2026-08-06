@@ -13846,7 +13846,7 @@
         "date": "23/04/2026",
         "attributes": ["rock", "alternative", "madicore"],
         "language": "japanese",
-        "url": ["https://soundcloud.com/user-563277245/one-out-of-six", "https://youtu.be/uPzxquO-FxU"]
+        "url": ["https://soundcloud.com/user-563277245/one-out-of-six", "https://youtu.be/uPzxquO-FxU"],
         "source": "/home/user/audio/one_out_of_six.opus",
         "cover": "/home/user/image/one_out_of_six.png"
     },
@@ -13930,7 +13930,7 @@
         "author": "Kogeru",
         "date": "11/05/2026",
         "attributes": ["rock", "alternative", "madicore"],
-        "url": ["https://soundcloud.com/user-563277245/all-thats-left", "https://youtu.be/dSBE27kpXDE", "https://kogeru.bandcamp.com/track/all-thats-left"]
+        "url": ["https://soundcloud.com/user-563277245/all-thats-left", "https://youtu.be/dSBE27kpXDE", "https://kogeru.bandcamp.com/track/all-thats-left"],
         "source": "/home/user/audio/all_thats_left.flac",
         "cover": "/home/user/image/all_thats_left.jpg"
     },
@@ -13944,5 +13944,14 @@
         "source": "/home/user/audio/on_edge.opus",
         "cover": "/home/user/image/on_edge.jpg",
         "comment": "rip yaguru o and the date a set is an upper bound, not the actual date"
+    },
+    {
+        "title": "Final Destination",
+        "author": ["Lenny", "bsterthegawd"],
+        "date": "04/01/2019",
+        "attributes": ["trap", "metal"],
+        "url": ["https://soundcloud.com/prodlenny/final-destination-w-bsterthegawd", "https://youtu.be/sRL3wiFUZk8"],
+        "source": "/home/user/audio/final_destination.opus",
+        "cover": "/home/user/image/final_destination.jpg"
     }
 ]
