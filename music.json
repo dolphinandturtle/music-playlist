@@ -13885,5 +13885,17 @@
         "source": "/home/user/audio/",
         "cover": "/home/user/image/",
         "lyrics": "/home/user/text/"
-    }
+    },
+    {
+        "title": "Hell Of A Thing",
+        "author": "foxwedding",
+        "album": "wave 001",
+        "queue": 4,
+        "date": "09/02/2016",
+        "attributes": ["electronic", "trap", "wave"],
+        "url": ["https://music.apple.com/au/song/hell-of-a-thing/1185513411", "https://soundcloud.com/wavemob/foxwedding-hell-of-a-thing", "https://youtu.be/r7wh6g6fSek", "https://wavemob.bandcamp.com/track/hell-of-a-thing"],
+        "source": "/home/user/audio/",
+        "cover": "/home/user/image/",
+        "lyrics": "/home/user/text/"
+    },
 ]
