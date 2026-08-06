@@ -13912,9 +13912,9 @@
         "tempo": "145 bpm",
         "key": "G major",
         "url": "https://youtu.be/JhLDaJWnTzA",
-        "source": "/home/user/audio/",
-        "cover": "/home/user/image/",
-        "lyrics": "/home/user/text/"
+        "source": "/home/user/audio/frailty.opus",
+        "cover": "/home/user/image/audio_creep.jpg",
+        "lyrics": "/home/user/text/frailty.txt"
     },
     {
         "title": "Ivory",
