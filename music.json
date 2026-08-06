@@ -13953,5 +13953,19 @@
         "url": ["https://soundcloud.com/prodlenny/final-destination-w-bsterthegawd", "https://youtu.be/sRL3wiFUZk8"],
         "source": "/home/user/audio/final_destination.opus",
         "cover": "/home/user/image/final_destination.jpg"
+    },
+    {
+        "title": "Deep End",
+        "author": "Julia Wolf",
+        "producer": ["Scro", "Noah Ehler"],
+        "date": "29/05/2026",
+        "attributes": ["rock", "alternative"],
+        "language": "english",
+        "tempo": "82 bpm",
+        "key": "F# major",
+        "url": ["https://youtu.be/ccyatHhfhpg", "https://soundcloud.com/juliawolfnyc/deep-end", "https://music.apple.com/us/song/deep-end/6766334926"],
+        "source": "/home/user/audio/deep_end.m4a",
+        "cover": "/home/user/image/deep_end.jpg",
+        "lyrics": "/home/user/text/deep_end.txt"
     }
 ]
