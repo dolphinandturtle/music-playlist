@@ -13898,4 +13898,20 @@
         "cover": "/home/user/image/",
         "lyrics": "/home/user/text/"
     },
+    {
+        "title": "FRAILTY",
+        "author": "ZillaKami",
+        "producer": ["Imotape Productions", "Yung Germ"],
+        "album": "AUDIO CREEP",
+        "queue": 3,
+        "date": "10/07/2026",
+        "attributes": ["rock", "grunge"],
+        "language": "english",
+        "tempo": "145 bpm",
+        "key": "G major",
+        "url": "https://youtu.be/JhLDaJWnTzA",
+        "source": "/home/user/audio/",
+        "cover": "/home/user/image/",
+        "lyrics": "/home/user/text/"
+    }
 ]
