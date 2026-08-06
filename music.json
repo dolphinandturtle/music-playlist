@@ -13873,5 +13873,17 @@
         "source": "/home/user/audio/",
         "cover": "/home/user/image/",
         "lyrics": "/home/user/text/"
+    },
+    {
+        "title": "poison.",
+        "author": "District The Maid",
+        "album": "JOY OF TRAGEDY",
+        "queue": 8,
+        "date": "06/02/2026",
+        "attributes": ["rock", "alternative", "maidcore"],
+        "url": ["https://music.apple.com/us/song/poison/1874215883", "https://soundcloud.com/districtmaid/poison", "https://districtmaid.bandcamp.com/track/poison"],
+        "source": "/home/user/audio/",
+        "cover": "/home/user/image/",
+        "lyrics": "/home/user/text/"
     }
 ]
