@@ -13913,5 +13913,17 @@
         "source": "/home/user/audio/",
         "cover": "/home/user/image/",
         "lyrics": "/home/user/text/"
+    },
+    {
+        "title": "Ivory",
+        "author": "Topback",
+        "vocals": "Lolalow",
+        "date": "14/02/2020",
+        "attributes": ["electronic", "trap", "wave"],
+        "language": "english",
+        "url": ["https://soundcloud.com/whoistopback/ivory", "https://music.apple.com/gh/album/ivory-feat-lolalow-single/1498187544"],
+        "source": "/home/user/audio/",
+        "cover": "/home/user/image/",
+        "lyrics": "/home/user/text/"
     }
 ]
