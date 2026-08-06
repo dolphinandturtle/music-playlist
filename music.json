@@ -13923,10 +13923,10 @@
         "date": "14/02/2020",
         "attributes": ["electronic", "trap", "wave"],
         "language": "english",
-        "url": ["https://soundcloud.com/whoistopback/ivory", "https://music.apple.com/gh/album/ivory-feat-lolalow-single/1498187544"],
+        "url": ["https://soundcloud.com/whoistopback/ivory", "https://music.apple.com/gh/album/ivory-feat-lolalow-single/1498187544", "https://topback.bandcamp.com/track/ivory-feat-lolalow"],
         "source": "/home/user/audio/",
-        "cover": "/home/user/image/",
-        "lyrics": "/home/user/text/"
+        "cover": "/home/user/image/ivory.jpg",
+        "lyrics": "/home/user/text/ivory.txt"
     },
     {
         "title": "all that's left",
