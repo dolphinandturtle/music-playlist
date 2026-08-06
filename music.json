@@ -13944,9 +13944,8 @@
         "attributes": ["trap", "metal"],
         "language": "english",
         "url": ["https://soundcloud.com/antikvng2/on-edge-w-bsterthegawd-antikvng", "https://youtu.be/LiJUgohFdIw"],
-        "source": "/home/user/audio/",
-        "cover": "/home/user/image/",
-        "lyrics": "/home/user/text/",
+        "source": "/home/user/audio/on_edge.opus",
+        "cover": "/home/user/image/on_edge.jpg",
         "comment": "rip yaguru o and the date a set is an upper bound, not the actual date"
     }
 ]
