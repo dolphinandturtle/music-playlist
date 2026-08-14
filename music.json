@@ -187,6 +187,8 @@
     {
         "title": "Push",
         "author": "M.E.D",
+        "album": "Push Comes To Shove",
+        "queue": 5,
         "producer": "J Dilla",
         "date": "31/03/2005",
         "attributes": [
@@ -203,12 +205,15 @@
         "tempo": "98 bpm",
         "key": "G major",
         "url": "https://youtu.be/h6ac-HhfV9Q",
-        "source": "/home/user/audio/push.flac"
+        "source": "/home/user/audio/push.flac",
+        "cover": "/home/user/image/push_come_to_shove.jpg"
     },
     {
         "title": "Nightlife",
         "author": "M.E.D",
         "producer": "J Dilla",
+        "album": "Push Comes To Shove",
+        "queue": 18,
         "date": "31/03/2005",
         "attributes": [
             "hiphop",
@@ -223,7 +228,8 @@
         "duration": "3:12",
         "tempo": "96 bpm",
         "url": "https://youtu.be/Uqb9a-AkgnY",
-        "source": "/home/user/audio/nightlife.flac"
+        "source": "/home/user/audio/nightlife.flac",
+        "cover": "/home/user/image/push_come_to_shove.jpg"
     },
     {
         "title": "Think",
@@ -6152,7 +6158,7 @@
     },
     {
         "title": "ULTRA VIOLENT",
-        "producer": "NVTE",
+        "author": "NVTE",
         "album": "VOID COLLECTION",
         "queue": 1,
         "date": "11/02/2021",
@@ -6171,7 +6177,7 @@
     },
     {
         "title": "FALSE IDOL",
-        "producer": "NVTE, brumal",
+        "author": ["NVTE", "brumal"],
         "album": "VOID COLLECTION",
         "queue": 2,
         "date": "12/11/2020",
@@ -6190,7 +6196,7 @@
     },
     {
         "title": "ETHEREAL ABSENCE",
-        "producer": "NVTE",
+        "author": "NVTE",
         "album": "VOID COLLECTION",
         "queue": 3,
         "date": "06/03/2021",
@@ -6208,7 +6214,7 @@
     },
     {
         "title": "DEATH RATTLE",
-        "producer": "NVTE",
+        "author": "NVTE",
         "album": "VOID COLLECTION",
         "queue": 4,
         "date": "03/01/2021",
@@ -7251,7 +7257,7 @@
     },
     {
         "title": "All of a Sudden",
-        "producer": "COSMIC, SYNC, NOAX",
+        "author": ["COSMIC", "SYNC", "NOAX"],
         "date": "30/09/2018",
         "attributes": [
             "hiphop",
