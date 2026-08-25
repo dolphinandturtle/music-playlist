@@ -2272,7 +2272,7 @@
     },
     {
         "title": "Show & A",
-        "author": "Showbiz, A.G",
+        "author": "Showbiz & A.G.",
         "producer": "Dj Premier",
         "album": "Mugshot Music: Pre-Loaded",
         "queue": 11,
@@ -14044,5 +14044,9 @@
     {
         "title": "Work Is Never Done",
         "author": ["N.O.T.S.", "Big L"]
+    },
+    {
+        "title": "Spit",
+        "author": "Showbiz & A.G."
     }
 ]
