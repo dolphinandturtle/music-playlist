@@ -14037,6 +14037,14 @@
     {
         "title": "Snowbound",
         "author": "Ornithology & Friends"
+        "date": "03/01/2025",
+        "attributes": ["live", "jazz"],
+        "language": "english",
+        "tempo": "91 bpm",
+        "key": "Ab major",
+        "url": ["https://youtu.be/CFpx4DFLbZI", "https://music.apple.com/us/song/snowbound-feat-ian-ewing-live-in-la/1786435804"],
+        "source": "/home/user/audio/snowbound.opus",
+        "cover": "/home/user/image/chet_baker_reimagined.jpg"
     },
     {
         "title": "Hellraisers",
