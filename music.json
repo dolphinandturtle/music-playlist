@@ -14023,7 +14023,16 @@
     },
     {
         "title": "Patient Lips",
-        "author": "Geoxor"
+        "author": "Geoxor",
+        "date": "21/08/2026",
+        "attributes": ["electronic", "vocaloid", "future bass"],
+        "language": "english",
+        "tempo": "150 bpm",
+        "key": "A# minor",
+        "url": ["https://youtu.be/qoKrYNjxzfA", "https://soundcloud.com/geoxor/patient-lips", "https://music.apple.com/us/song/patient-lips/6802237530"],
+        "source": "/home/user/audio/patient_lips.m4a",
+        "cover": "/home/user/image/patient_lips.jpg",
+        "lyrics": "/home/user/text/patient_lips.txt"
     },
     {
         "title": "Snowbound",
