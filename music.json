@@ -13704,6 +13704,7 @@
     },
     {
         "title": "Insane",
+        "author": "Flume",
         "date": "09/11/2012",
         "producer": "Flume",
         "album": "Flume",
@@ -14022,7 +14023,14 @@
     },
     {
         "title": "Four Ton Mantis",
-        "author": "Amon Tobin"
+        "author": "Amon Tobin",
+        "album": "Supermodified",
+        "date": "16/03/2000",
+        "attributes": ["jazz", "hiphop", "industrial"],
+        "tempo": "94 bpm",
+        "key": "C# minor",
+        "cover": "/home/user/image/four_ton_mantis.jpg",
+        "source": "/home/user/audio/four_ton_mantis.mp3"
     },
     {
         "title": "Happy End",
