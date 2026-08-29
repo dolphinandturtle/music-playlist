@@ -13990,12 +13990,36 @@
         "lyrics": "/home/user/text/deep_end.txt"
     },
     {
-        "title": "A nocche dure / rischiando il culo",
+        "title": "A nocche dure - Rischiando il culo",
         "author": "Joe Cassano"
+        "producer": "DJ Skizo",
+        "album": "Dio Lodato",
+        "queue": 4,
+        "date": "1998",
+        "attributes": ["hiphop", "rap"],
+        "language": "italian",
+        "tempo": "89 bpm",
+        "key": "C# minor",
+        "url": ["https://youtu.be/RdnfdHQiGlc", "https://music.apple.com/it/song/a-nocche-dure-rischiando-il-culo/1848988449"],
+        "source": "/home/user/audio/a_nocche_dure_rischiando_il_culo.m4a",
+        "cover": "/home/user/image/dio_lodato.webp",
+        "lyrics": "/home/user/text/a_nocche_dure_rischiando_il_culo.txt"
     },
     {
-        "title": "Dio loda per sta chance",
-        "author": "Joe Cassano"
+        "title": "Dio lodato per sta chance",
+        "author": "Joe Cassano",
+        "producer": "Kaos",
+        "album": "Dio Lodato",
+        "queue": 6,
+        "date": "1999",
+        "attributes": ["hiphop", "rap"],
+        "language": "italian",
+        "tempo": "95 bpm",
+        "key": "G major",
+        "url": ["https://youtu.be/1aaBkvlxgJ8", "https://music.apple.com/it/song/dio-lodato-per-sta-chanche/1848988467"],
+        "source": "/home/user/audio/dio_lodato_per_sta_chance.m4a",
+        "cover": "/home/user/image/dio_lodato.webp",
+        "lyrics": "/home/user/text/dio_lodato.txt"
     },
     {
         "title": "Patient Lips",
@@ -14025,6 +14049,7 @@
         "title": "Four Ton Mantis",
         "author": "Amon Tobin",
         "album": "Supermodified",
+        "queue": 2,
         "date": "16/03/2000",
         "attributes": ["jazz", "hiphop", "industrial"],
         "tempo": "94 bpm",
