@@ -3571,7 +3571,7 @@
     },
     {
         "title": "Reason",
-        "author": "Altare, Devilish Trio",
+        "author": ["Altare", "Devilish Trio"],
         "producer": "Altare",
         "date": "27/11/2021",
         "attributes": [
@@ -14034,7 +14034,19 @@
     },
     {
         "title": "Hellraisers",
-        "author": "Devilish Trio"
+        "author": "Devilish Trio",
+        "producer": ["HYDRA MANE", "Tenngage", "Baker Ya Maker"],
+        "album": "Past Junts",
+        "queue": 6,
+        "date": "01/01/2018",
+        "attributes": ["phonk", "rap"],
+        "language": "english",
+        "tempo": "125 bpm",
+        "key": "B minor",
+        "url": ["https://youtu.be/U6EeZfG2nxc", "https://music.apple.com/gb/song/hellraisers/1434239723", "https://devilishtrio.bandcamp.com/track/hellraisers"],
+        "source": "/home/user/audio/hellraisers.flac",
+        "cover": "/home/user/image/past_junts.jpg",
+        "lyrics": "/home/user/text/hellraisers.txt"
     },
     {
         "title": "Replica",
