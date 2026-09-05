@@ -30,8 +30,7 @@ for song in music:
         if isinstance(song["author"], str):
             author = song["author"]
         elif isinstance(song["author"], list):
-            OPUS_SEPARATOR = '-'
-            author = OPUS_SEPARATOR.join(song["author"])
+            author = ", ".join(song["author"])
         else:
             raise Exception
         author = author.replace("\"", "\\\"").replace("$", "\\$")
