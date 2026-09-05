@@ -14080,7 +14080,7 @@
     },
     {
         "title": "I Am a Fool To Want You (Live in Paris)",
-        "author": "Chet Baker"
+        "author": "Chet Baker",
         "album": "Chet Baker in Paris Vol. 2",
         "queue": 7,
         "date": "25/11/1987",
@@ -14127,7 +14127,7 @@
         "key": "F# minor",
         "url": ["https://youtu.be/P6qoTPhhv9w", "https://music.apple.com/us/song/la-petite-fille-de-la-mer-remastered/1453155791"],
         "source": "/home/user/audio/la_petite_fille_de_la_mer.opus",
-        "cover": "/home/user/image/l_apocalypse_des_animaux.jpg",
+        "cover": "/home/user/image/l_apocalypse_des_animaux.jpg"
     },
     {
         "title": "Painters",
@@ -14167,7 +14167,7 @@
         "language": "english",
         "url": ["https://youtu.be/TpU_Jwn_WpQ"],
         "source": "/home/user/audio/work_is_never_done.opus",
-        "cover": "/home/user/image/work_is_never_done.jpg",
+        "cover": "/home/user/image/work_is_never_done.jpg"
     },
     {
         "title": "Spit",
