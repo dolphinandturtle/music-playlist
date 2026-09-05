@@ -14171,6 +14171,18 @@
     },
     {
         "title": "Spit",
-        "author": "Showbiz & A.G."
+        "author": "Showbiz & A.G.",
+        "producer": ["Show", "A.G. (D.I.T.C.)"],
+        "album": "Full Scale LP",
+        "queue": 5,
+        "date": "24/05/1998",
+        "attributes": ["hiphop", "rap"],
+        "language": "english",
+        "tempo": "89 bpm",
+        "key": "F# major",
+        "url": ["https://youtu.be/2CHsVQhqzWU", "https://music.apple.com/gb/song/spit/258363435"],
+        "source": "/home/user/audio/spit.opus",
+        "cover": "/home/user/image/full_scale_lp.jpg",
+        "lyrics": "/home/user/text/spit.txt"
     }
 ]
