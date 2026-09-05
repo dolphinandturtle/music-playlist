@@ -14101,13 +14101,20 @@
         "attributes": ["jazz", "hiphop", "industrial"],
         "tempo": "94 bpm",
         "key": "C# minor",
-        "cover": "/home/user/image/four_ton_mantis.jpg",
-        "source": "/home/user/audio/four_ton_mantis.mp3"
+        "source": "/home/user/audio/four_ton_mantis.mp3",
+        "cover": "/home/user/image/four_ton_mantis.jpg"
     },
     {
-        "title": "Happy End",
-        "composer": "Hayato Sumino",
-        "author": "Ryuichi Sakamoto"
+        "title": "Happy End (interpreted by Hayato Sumino)",
+        "author": "Ryuichi Sakamoto",
+        "instrument": "Hayato Sumino",
+        "date": "28/05/2026",
+        "attributes": ["piano"],
+        "tempo": "98 bpm",
+        "key": "F minor",
+        "url": "https://youtu.be/WjqVIsLuCng",
+        "source": "/home/user/audio/happy_end_cateen.opus",
+        "cover": "/home/user/image/cateen.jpg"
     },
     {
         "title": "La petite fille de la mer",
