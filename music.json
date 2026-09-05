@@ -14160,7 +14160,14 @@
     },
     {
         "title": "Work Is Never Done",
-        "author": ["N.O.T.S.", "Big L"]
+        "author": ["N.O.T.S.", "Big L"],
+        "producer": "DJ Spinna",
+        "date": "??/??/1997",
+        "attributes": ["hiphop", "rap"],
+        "language": "english",
+        "url": ["https://youtu.be/TpU_Jwn_WpQ"],
+        "source": "/home/user/audio/work_is_never_done.opus",
+        "cover": "/home/user/image/work_is_never_done.jpg",
     },
     {
         "title": "Spit",
