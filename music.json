@@ -14118,11 +14118,29 @@
     },
     {
         "title": "La petite fille de la mer",
-        "author": "Vangelis"
+        "author": "Vangelis",
+        "album": "L'Apocalypse Des Animaux",
+        "queue": 1,
+        "date": "??/??/1973",
+        "attributes": ["electronic", "ambient"],
+        "tempo": "90 bpm",
+        "key": "F# minor",
+        "url": ["https://youtu.be/P6qoTPhhv9w", "https://music.apple.com/us/song/la-petite-fille-de-la-mer-remastered/1453155791"],
+        "source": "/home/user/audio/la_petite_fille_de_la_mer.opus",
+        "cover": "/home/user/image/l_apocalypse_des_animaux.jpg",
     },
     {
         "title": "Painters",
-        "author": "Joe Hisaishi"
+        "author": "Joe Hisaishi",
+        "album": "HANA-BI",
+        "queue": 6,
+        "date": "01/01/1998",
+        "attributes": ["orchestral", "piano"],
+        "tempo": "161 bpm",
+        "key": "F minor",
+        "url": ["https://youtu.be/lJSnestdHag", "https://music.apple.com/us/song/painters/1498699552"],
+        "source": "/home/user/audio/painters.m4a",
+        "cover": "/home/user/image/hana_bi.jpg"
     },
     {
         "title": "Runway",
