@@ -30,11 +30,11 @@ for song in music:
         if isinstance(song["author"], str):
             author = song["author"]
         elif isinstance(song["author"], list):
-            author = "--artist ".join('"' + song["author"] + '"')
+            author = ", ".join(song["author"])
         else:
             raise Exception
         author = author.replace("\"", "\\\"").replace("$", "\\$")
-        metadata.append(author)
+        metadata.append(f"--artist \"{author}\"")
     if "album" in song:
         album = song["album"].replace("\"", "\\\"").replace("$", "\\$")
         metadata.append(f"--album \"{album}\"")
