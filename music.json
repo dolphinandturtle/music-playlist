@@ -14050,7 +14050,17 @@
     },
     {
         "title": "Replica",
-        "author": "Oneohtrix Point Never"
+        "author": "Oneohtrix Point Never",
+        "album": "Replica",
+        "queue": 5,
+        "date": "08/11/2011",
+        "attributes": ["ambient", "electronic"],
+        "language": "english",
+        "tempo": "83 bpm",
+        "key": "Eb major",
+        "url": ["https://youtu.be/PU0g45uEI84", "https://music.apple.com/it/song/replica/1714487628", "https://oneohtrixpointnever.bandcamp.com/track/replica"],
+        "source": "/home/user/audio/replica.flac",
+        "cover": "/home/user/image/replica.jpg",
     },
     {
         "title": "Am I Blue",
