@@ -14184,5 +14184,32 @@
         "source": "/home/user/audio/spit.opus",
         "cover": "/home/user/image/full_scale_lp.jpg",
         "lyrics": "/home/user/text/spit.txt"
+    },
+    {
+        "title": "Enter The Grooveyard Vol. 2",
+        "author": ["Rahul the Tool", "Stove of Elephant "],
+        "date": "29/09/2025",
+        "attributes": ["hiphop", "rap"],
+        "url": "https://soundcloud.com/stovespins/enter-the-grooveyard-vol-1",
+        "source": "/home/user/audio/enter_the_grooveyard_vol_2.m4a",
+        "cover": "/home/user/image/enter_the_grooveyard_vol_2.jpg"
+    },
+    {
+        "title": "Invincible Breaking Mixtape 2023",
+        "author": ["DJ Krops", "DJ Monkey King"],
+        "date": "20/06/2023",
+        "attributes": ["hiphop", "rap"],
+        "url": "https://soundcloud.com/invinciblebreaking/invincible-breaking-2023-mixtape-dj-krops-x-dj-monkeyking",
+        "source": "/home/user/audio/invincible_breaking_2023_mixtape.m4a",
+        "cover": "/home/user/image/invincible_breaking_2023_mixtape.jpg"
+    },
+    {
+        "title": "New School Blends Part 2",
+        "author": "jord.msc",
+        "date": "04/09/2025",
+        "attributes": ["hiphop", "rap"],
+        "url": "https://soundcloud.com/dehaesjordi/jordi-new-school-blends-prt-2",
+        "source": "/home/user/audio/new_school_blends_part_2.m4a",
+        "cover": "/home/user/image/new_school_part_2.png"
     }
 ]
