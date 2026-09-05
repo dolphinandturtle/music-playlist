@@ -14060,11 +14060,23 @@
         "key": "Eb major",
         "url": ["https://youtu.be/PU0g45uEI84", "https://music.apple.com/it/song/replica/1714487628", "https://oneohtrixpointnever.bandcamp.com/track/replica"],
         "source": "/home/user/audio/replica.flac",
-        "cover": "/home/user/image/replica.jpg",
+        "cover": "/home/user/image/replica.jpg"
     },
     {
         "title": "Am I Blue",
-        "author": "Ray Charles"
+        "author": "Ray Charles",
+        "producer": ["Nesuhi Ertegün", "Jerry Wexler"],
+        "album": "The Genius of Ray Charles",
+        "queue": 11,
+        "date": "??/10/1959",
+        "attributes": ["rnb"],
+        "language": "english",
+        "tempo": "137 bpm",
+        "key": "Ab major",
+        "url": ["https://youtu.be/Hxn5Ra1b1Ig", "https://music.apple.com/us/song/am-i-blue/46592245"],
+        "source": "/home/user/audio/am_i_blue.m4a",
+        "cover": "/home/user/image/the_genius_of_ray_charles.jpg",
+        "lyrics": "/home/user/text/am_i_blue.txt"
     },
     {
         "title": "I am a Fool To Want You",
