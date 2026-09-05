@@ -14079,8 +14079,18 @@
         "lyrics": "/home/user/text/am_i_blue.txt"
     },
     {
-        "title": "I am a Fool To Want You",
+        "title": "I Am a Fool To Want You (Live in Paris)",
         "author": "Chet Baker"
+        "album": "Chet Baker in Paris Vol. 2",
+        "queue": 7,
+        "date": "25/11/1987",
+        "attributes": ["jazz"],
+        "language": "english",
+        "tempo": "94 bpm",
+        "key": "C minor",
+        "source": "/home/user/audio/i_am_a_fool_to_want_you_live_in_paris.opus",
+        "cover": "/home/user/image/chet_baker_in_paris_vol_2.png",
+        "lyrics": "/home/user/text/i_am_a_fool_to_want_you_live_in_paris.txt"
     },
     {
         "title": "Four Ton Mantis",
