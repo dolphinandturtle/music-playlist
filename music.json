@@ -14205,11 +14205,27 @@
     },
     {
         "title": "New School Blends Part 2",
-        "author": "jord.msc",
+        "author": "jordi.msc",
         "date": "04/09/2025",
         "attributes": ["hiphop", "rap"],
         "url": "https://soundcloud.com/dehaesjordi/jordi-new-school-blends-prt-2",
         "source": "/home/user/audio/new_school_blends_part_2.m4a",
         "cover": "/home/user/image/new_school_part_2.png"
+    },
+    {
+        "title": "White Flag",
+        "author": "Dido",
+        "producer": ["Dido", "Rollo Armstrong"],
+        "album": "Life for Rent",
+        "queue": 1,
+        "date": "07/07/2003",
+        "attributes": ["hiphop"],
+        "language": "english",
+        "tempo": "85 bpm",
+        "key": "F major",
+        "url": ["https://youtu.be/jRqhGC5vgC0", "https://music.apple.com/us/song/white-flag/292025812"],
+        "source": "/home/user/audio/white_flag.flac",
+        "cover": "/home/user/image/life_for_rent.jpg",
+        "lyrics": "/home/user/text/white_flag.txt"
     }
 ]
