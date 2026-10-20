@@ -12715,7 +12715,8 @@
         "key": "C major",
         "url": ["https://youtu.be/zzlzyyugO9w", "https://music.apple.com/us/song/sentimentai/1675847702"],
         "source": "/home/user/audio/sentimentai.m4a",
-        "cover": "/home/user/image/kodel_tu_cia.png"
+        "cover": "/home/user/image/kodel_tu_cia.png",
+        "comment": "Grazie Chiara"
     },
     {
         "title": "Real Hip-Hop",
@@ -14282,6 +14283,25 @@
         "url": ["https://youtu.be/miIihGHZ_7A", "https://music.apple.com/us/song/firestarter-feat-sophie-powers-miyeon-jeon-soyeon/6813197034"],
         "source": "/home/user/audio/firestarter.m4a",
         "cover": "/home/user/image/firestarter.png",
-        "lyrics": "/home/user/text/firestarter.txt"
-    }
+        "lyrics": "/home/user/text/firestarter.txt",
+        "commenti": "Grazie Chiara"
+    },
+    {
+        "title": "I Gotta Find Peace of Mind (Live)",
+        "author": "Lauryn Hill",
+        "producer": "Alex Coletti",
+        "album": "MTV Unplugged No. 2.0",
+        "queue": 13,
+        "date": "07/05/2002",
+        "attributes": ["acoustic"],
+        "language": "english",
+        "tempo": "174 bpm",
+        "key": "G major",
+        "url": ["https://youtu.be/b2IbsMCgz4A", "https://music.apple.com/us/song/i-gotta-find-peace-of-mind/192492922"],
+        "source": "/home/user/audio/i_gotta_find_peace_of_mind.m4a",
+        "cover": "/home/user/image/mtv_unplugged_2.jpg",
+        "lyrics": "/home/user/text/i_gotta_find_peace_of_mind.txt",
+        "commenti": "Grazie Clo"
+    },
+
 ]
