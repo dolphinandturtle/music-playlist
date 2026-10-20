@@ -14269,5 +14269,19 @@
         "source": "/home/user/audio/yume_no_tamago.opus",
         "cover": "/home/user/image/rahxephon_pluralitas_concentio_ost.jpg",
         "lyrics": "/home/user/text/yume_no_tamago.txt"
+    },
+    {
+        "title": "FIRESTARTER",
+        "author": ["K/DA", "Mimi Webb", "MIYEON", "SOYEON", "Sophie Powers"],
+        "producer": ["Kill Dave", "Sebastien Najand"],
+        "date": "18/10/2026",
+        "attributes": ["pop"],
+        "language": "english",
+        "tempo": "131 bpm",
+        "key": "C# major",
+        "url": ["https://youtu.be/miIihGHZ_7A", "https://music.apple.com/us/song/firestarter-feat-sophie-powers-miyeon-jeon-soyeon/6813197034"],
+        "source": "/home/user/audio/firestarter.m4a",
+        "cover": "/home/user/image/firestarter.png",
+        "lyrics": "/home/user/text/firestarter.txt"
     }
 ]
