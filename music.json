@@ -14302,5 +14302,20 @@
         "cover": "/home/user/image/mtv_unplugged_2.jpg",
         "lyrics": "/home/user/text/i_gotta_find_peace_of_mind.txt",
         "commenti": "Grazie Clo"
+    },
+    {
+        "title": "La Gatta",
+        "author": "Gino Paoli",
+        "producer": "Gian Piero Reverberi",
+        "album": "Gino Paoli",
+        "queue": 8,
+        "date": "??/10/1961",
+        "attributes": ["acoustic"],
+        "language": "italian",
+        "url": ["https://youtu.be/r0MjJ9s3mIY"],
+        "source": "/home/user/audio/la_gatta.opus",
+        "cover": "/home/user/image/gino_paoli.jpg",
+        "lyrics": "/home/user/text/la_gatta.txt",
+        "commenti": "Grazie Clo"
     }
 ]
