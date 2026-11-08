@@ -14317,5 +14317,21 @@
         "cover": "/home/user/image/gino_paoli.jpg",
         "lyrics": "/home/user/text/la_gatta.txt",
         "commenti": "Grazie Clo"
+    },
+    {
+        "title": "傷口にお砂糖 (Sugar on the Wound)",
+        "author": "CARAMEL CANDiD",
+        "producer": "CARAMEL CANDiD",
+        "album": "『この社会オワってんな』 (Kono Shakai Owattenna) ",
+        "queue": 2,
+        "date": "19/08/2026",
+        "attributes": ["rock"],
+        "language": "japanese",
+        "tempo": "92 bpm",
+        "key": "F minor",
+        "url": ["https://youtu.be/GzbmmFUU2Gg"],
+        "source": "/home/user/audio/sugar_on_the_wound.opus",
+        "cover": "/home/user/image/kono_shakai_owattenna.jpg",
+        "lyrics": "/home/user/text/sugar_on_the_wound_jp.txt"
     }
 ]
