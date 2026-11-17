@@ -3484,7 +3484,7 @@
     },
     {
         "title": "One In Custody",
-        "producer": "Sir Jinx",
+        "author": "Sir Jinx",
         "album": "Imperial Instrumentals",
         "queue": 4,
         "date": "24/07/2020",
@@ -5430,7 +5430,7 @@
     },
     {
         "title": "Lust",
-        "author": "Synergy, Tasha Baxter",
+        "author": ["Synergy", "Tasha Baxter"],
         "producer": "Synergy",
         "date": "03/12/2021",
         "attributes": [
@@ -6233,7 +6233,7 @@
     },
     {
         "title": "angelic",
-        "producer": "nihigo, nunashi",
+        "author": ["nihigo", "nunashi"],
         "date": "28/10/2020",
         "attributes": [
             "electronic",
@@ -6246,7 +6246,7 @@
     },
     {
         "title": "E T E R N I T Y \u6c38\u9060\u306b",
-        "producer": "nakedleisure",
+        "author": "nakedleisure",
         "album": "Wasteland",
         "queue": 12,
         "date": "19/09/2023",
@@ -6362,7 +6362,7 @@
     },
     {
         "title": "Face The Future",
-        "producer": "DXRKWRLD",
+        "author": "DXRKWRLD",
         "date": "05/08/2022",
         "attributes": [
             "electronic",
@@ -6376,7 +6376,7 @@
     },
     {
         "title": "Lust",
-        "producer": "Snavs",
+        "author": "Snavs",
         "album": "SNAVS2018",
         "queue": 13,
         "date": "24/08/2018",
@@ -6410,7 +6410,7 @@
     },
     {
         "title": "dreaming",
-        "producer": "Myrmax",
+        "author": "Myrmax",
         "album": "Wave Arc",
         "queue": 1,
         "date": "21/08/2024",
@@ -6429,7 +6429,7 @@
     },
     {
         "title": "escape",
-        "producer": "Myrmax",
+        "author": "Myrmax",
         "album": "Wave Arc",
         "queue": 2,
         "date": "26/08/2024",
@@ -6448,7 +6448,7 @@
     },
     {
         "title": "cataclysm",
-        "producer": "Myrmax",
+        "author": "Myrmax",
         "album": "Wave Arc",
         "queue": 3,
         "date": "01/09/2024",
@@ -6467,7 +6467,7 @@
     },
     {
         "title": "sociopathic dance queen",
-        "producer": "Myrmax",
+        "author": "Myrmax",
         "album": "Wave Arc",
         "queue": 4,
         "date": "05/09/2024",
@@ -6484,7 +6484,7 @@
     },
     {
         "title": "I must apologize",
-        "producer": "Myrmax",
+        "author": "Myrmax",
         "album": "Wave Arc",
         "queue": 5,
         "date": "17/09/2024",
@@ -6501,7 +6501,7 @@
     },
     {
         "title": "always on my mind",
-        "producer": "Myrmax",
+        "author": "Myrmax",
         "album": "Wave Arc",
         "queue": 6,
         "date": "28/09/2024",
@@ -6518,7 +6518,7 @@
     },
     {
         "title": "NEVER",
-        "producer": "shxpe",
+        "author": "shxpe",
         "date": "15/02/2024",
         "attributes": [
             "hiphop",
@@ -6534,7 +6534,7 @@
     },
     {
         "title": "Aegir",
-        "producer": "MRJay",
+        "author": "MRJay",
         "album": "Stellar Evolution",
         "queue": 1,
         "date": "23/06/2025",
@@ -6550,7 +6550,7 @@
     },
     {
         "title": "Cyllene",
-        "producer": "MRJay",
+        "author": "MRJay",
         "album": "Stellar Evolution",
         "queue": 2,
         "date": "23/06/2025",
@@ -7207,7 +7207,7 @@
     },
     {
         "title": "New King",
-        "producer": "Da-p",
+        "author": "Da-p",
         "date": "04/06/2018",
         "attributes": [
             "hiphop",
@@ -8131,7 +8131,7 @@
     },
     {
         "title": "Neo Tokyo",
-        "producer": "mark veins, skypierr",
+        "author": ["mark veins", "skypierr"],
         "date": "25/05/2017",
         "attributes": [
             "hiphop",
@@ -8143,7 +8143,7 @@
     },
     {
         "title": "Divergent",
-        "producer": "mark veins, Hyperforms",
+        "author": ["mark veins", "Hyperforms"],
         "date": "11/02/2018",
         "attributes": [
             "hiphop",
