@@ -14395,5 +14395,21 @@
         "source": "/home/user/audio/she_is_gone.opus",
         "cover": "/home/user/image/she_is_gone.png",
         "lyrics": "/home/user/text/she_is_gone.txt"
+    },
+    {
+        "title": "Pony",
+        "author": ["Ginuwine", "Static Major", "Timbaland"],
+        "producer": "Timbaland",
+        "album": "Ginuwine... The Bachelor",
+        "queue": 2,
+        "date": "08/10/1996",
+        "attributes": ["r&b"],
+        "language": "english",
+        "tempo": "142 bpm",
+        "key": "G# minor",
+        "url": ["https://youtu.be/FVaVydg28Qk", "https://music.apple.com/it/song/pony/157465470"],
+        "source": "/home/user/audio/pony.m4a",
+        "cover": "/home/user/image/the_bachelor.jpg",
+        "lyrics": "/home/user/text/pony.txt"
     }
 ]
