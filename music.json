@@ -14411,5 +14411,21 @@
         "source": "/home/user/audio/pony.m4a",
         "cover": "/home/user/image/the_bachelor.jpg",
         "lyrics": "/home/user/text/pony.txt"
+    },
+    {
+        "title": "Poppa Large (East Coast Mix)",
+        "author": "Ultramagnetic MC's",
+        "producer": "Da Beatminerz",
+        "album": "Poppa Large",
+        "queue": 1,
+        "date": "17/03/1992",
+        "attributes": ["hip-hop"],
+        "language": "english",
+        "tempo": "110 bpm",
+        "key": "C# major",
+        "url": "https://youtu.be/TFKLANwD4Mg",
+        "source": "/home/user/audio/poppa_large_east_coast_mix.opus",
+        "cover": "/home/user/image/poppa_large.jpg",
+        "lyrics": "/home/user/text/poppa_large_east_coast_mix.txt"
     }
 ]
