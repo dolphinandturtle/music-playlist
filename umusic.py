@@ -38,6 +38,9 @@ for song in music:
     if "album" in song:
         album = song["album"].replace("\"", "\\\"").replace("$", "\\$")
         metadata.append(f"--album \"{album}\"")
+    if "album" not in song:
+        # This is for VLC
+        metadata.append(f"--album \"Singles\"")
     if "date" in song:
         metadata.append(f"--date \"{song['date']}\"")
     if "queue" in song:
