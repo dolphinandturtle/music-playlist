@@ -14365,5 +14365,21 @@
         "source": "/home/user/audio/how_does_it_feel.opus",
         "cover": "/home/user/image/voodoo.jpg",
         "lyrics": "/home/user/text/how_does_it_feel.txt"
+    },
+    {
+        "title": "The Line",
+        "author": "D'Angelo",
+        "producer": "D'Angelo",
+        "album": "Voodoo",
+        "queue": 4,
+        "date": "25/01/2000",
+        "attributes": ["neo-soul", "r&b"],
+        "language": "english",
+        "tempo": "80 bpm",
+        "key": "D major",
+        "url": ["https://youtu.be/XcMVur7l02Q", "https://music.apple.com/ca/song/the-line/1443830575"],
+        "source": "/home/user/audio/the_line.opus",
+        "cover": "/home/user/image/voodoo.jpg",
+        "lyrics": "/home/user/text/the_line.txt"
     }
 ]
