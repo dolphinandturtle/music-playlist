@@ -14427,5 +14427,21 @@
         "source": "/home/user/audio/poppa_large_east_coast_mix.opus",
         "cover": "/home/user/image/poppa_large.jpg",
         "lyrics": "/home/user/text/poppa_large_east_coast_mix.txt"
+    },
+    {
+        "title": "Wild Child",
+        "author": "Da Youngsta's",
+        "producer": "The Beatnuts",
+        "album": "The Aftermath",
+        "queue": 2,
+        "date": "20/04/1993",
+        "attributes": ["hip-hop"],
+        "language": "english",
+        "tempo": "98 bpm",
+        "key": "F# major",
+        "url": ["https://youtu.be/3_LmVOuWid0", "https://music.apple.com/ca/song/wild-child/272493604"],
+        "source": "/home/user/audio/wild_child.opus",
+        "cover": "/home/user/image/the_aftermath.png",
+        "lyrics": "/home/user/text/wild_child.txt"
     }
 ]
