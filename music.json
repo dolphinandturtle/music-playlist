@@ -14333,5 +14333,21 @@
         "source": "/home/user/audio/sugar_on_the_wound.opus",
         "cover": "/home/user/image/kono_shakai_owattenna.jpg",
         "lyrics": "/home/user/text/sugar_on_the_wound_jp.txt"
+    },
+    {
+        "title": "The Day of Night",
+        "author": "Akira Yamaoka",
+        "producer": "Akira Yamaoka",
+        "album": "Silent Hill 2 Original Soundtracks",
+        "queue": 13,
+        "date": "03/10/2001",
+        "attributes": ["instrumental", "ambient"],
+        "language": "instrumental",
+        "tempo": "137 bpm",
+        "key": "A# minor",
+        "url": ["https://youtu.be/ZBL5y8AciNw", "https://music.apple.com/in/song/the-day-of-night/164069719"],
+        "source": "/home/user/audio/the_day_of_night.flac",
+        "cover": "/home/user/image/silent_hill_2_ost.jpg",
+        "lyrics": "/home/user/text/the_day_of_night.txt"
     }
 ]
