@@ -14381,5 +14381,19 @@
         "source": "/home/user/audio/the_line.opus",
         "cover": "/home/user/image/voodoo.jpg",
         "lyrics": "/home/user/text/the_line.txt"
+    },
+    {
+        "title": "She Is Gone",
+        "author": "Ajibon Hidayati",
+        "producer": "Ajibon Hidayati",
+        "date": "17/01/2026",
+        "attributes": ["dance", "electronic"],
+        "language": "english",
+        "tempo": "140 bpm",
+        "key": "Eb major",
+        "url": "https://youtu.be/0yjoLUDQL6k",
+        "source": "/home/user/audio/she_is_gone.opus",
+        "cover": "/home/user/image/she_is_gone.png",
+        "lyrics": "/home/user/text/she_is_gone.txt"
     }
 ]
