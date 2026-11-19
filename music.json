@@ -14443,5 +14443,19 @@
         "source": "/home/user/audio/wild_child.opus",
         "cover": "/home/user/image/the_aftermath.png",
         "lyrics": "/home/user/text/wild_child.txt"
+    },
+    {
+        "title": "Can't Sleep (Vanic Remix)",
+        "author": ["K.Flay", "Vanic"],
+        "producer": "Vanic",
+        "date": "10/09/2021",
+        "attributes": ["electronic", "trap", "future bass"],
+        "language": "english",
+        "tempo": "146 bpm",
+        "key": "E minor",
+        "url": ["https://music.apple.com/gb/song/cant-sleep-vanic-remix/1584411678", "https://soundcloud.com/kflay/cant-sleep-vanic-remix", "https://youtu.be/Lz0pjEXy7T0"],
+        "source": "/home/user/audio/cant_sleep_vanic_remix.m4a",
+        "cover": "/home/user/image/cant_sleep_vanic_remix.jpg",
+        "lyrics": "/home/user/text/cant_sleep_vanic_remix.txt"
     }
 ]
